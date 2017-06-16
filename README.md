@@ -270,6 +270,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
   * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
   * [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
+  * [Two Minute Papers](https://www.youtube.com/user/keeroyz) : Excellent short videos summarizing the latest papers in the area of computer graphics and machine learning.
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
